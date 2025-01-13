@@ -1,1 +1,3 @@
-# PCOS
+# PCOS Project
+
+Our research aims to shed light on the underexplored realm of metabolic and endocrinological disorders affecting women, particularly Polycystic Ovary Syndrome (PCOS). PCOS is a disorder that primarily affects women, and causes the ovaries to enlarge and develop cysts.  It is most commonly believed that being overweight contributes to one having PCOS, but gaining weight is a side affect of having this hormonal imbalance disorder. After a patient is diagnosed with PCOS, doctors typically advise them to lose weight to manage their symptoms.We investigated key diagnostic factors often overlooked by medical practitioners, including BMI, Follicle-Stimulating Hormone (FSH), Luteinizing Hormone (LH), FSH/LH ratio than solely focusing on weight management advice. Our research underscores the importance of a nuanced approach in managing PCOS, emphasizing the need for tailored interventions targeting specific hormonal dysregulations. 
